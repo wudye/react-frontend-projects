@@ -7,4 +7,4 @@ config
 
 npm create vite@latest ./ -- --template react
 
-54
+1:30
